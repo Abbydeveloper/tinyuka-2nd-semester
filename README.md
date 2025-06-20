@@ -2,6 +2,22 @@
 
 ## Provisiong a Linux Server Using AWS 
 
+### Project Directory
+
+```
+alt
+|-- webpage/
+|   |-- assets/
+|   |-- index.html
+|   |-- index.css
+|
+|__ README.md
+|-- app.js
+|-- package-lock.json
+|-- package.json
+```
+
+
 ### Setup EC2 Instance
 
 Create an AWS account, if not available prior. 
