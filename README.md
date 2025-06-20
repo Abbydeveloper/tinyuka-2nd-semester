@@ -44,7 +44,7 @@ sudo apt upgrade
 This commanda are used in Linux distributions to manage software packages. `apt update` refreshes the list of available packages and their versions from configured repositories.  `apt upgrade` downloads and installs newer versions of the already installed packages. It is important to run these two commands before any other installations
 This will refresh and upgrade server packages
 
-#### Install Applicaionts
+#### Install Applications
 
 These commands will install all the applications used in this setup
 
