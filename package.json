@@ -1,0 +1,23 @@
+{
+  "name": "alt-2nd",
+  "version": "1.0.0",
+  "description": "Altschool Cloud Engineering - Second Semester",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abbydeveloper/tinyuka-2nd-semester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abbydeveloper/tinyuka-2nd-semester/issues"
+  },
+  "homepage": "https://github.com/Abbydeveloper/tinyuka-2nd-semester#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
