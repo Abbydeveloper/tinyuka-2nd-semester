@@ -5,18 +5,22 @@
 ### Project Directory
 
 ```
-alt
-|-- webpage/
-|   |-- assets/
-|   |-- index.html
-|   |-- index.css
-|
-|__ README.md
-|-- app.js
-|-- package-lock.json
-|-- package.json
-```
 
+alt/
+├── webpage/
+│   ├── assets/
+│   │   └── images
+|   |
+|   |
+|   ├── index.html
+|   └── index.css
+|   
+|   
+├── app.js
+├── package.json
+├── package-lock.json
+└── README.md
+```
 
 ### Setup EC2 Instance
 
